@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id":1,
+            "title":"welcame to the new blog",
+            "body": "lorem asd kmwk asdm  asdma oadnaod oandaso oansdm",
+            "tag": [
+                "webdev",
+                "coding",
+                "new"
+            ]
+        },
+        {
+            "id":2,
+            "title":"top 5 css to the new blog",
+            "body": "lorem asd kmwk asdm  asdma oadnaod oandaso oansdm",
+            "tag": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
